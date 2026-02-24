@@ -55,8 +55,6 @@ It transforms raw global climate datasets into meaningful, interactive insights 
 
 ## 📷 Dashboard Preview
 
-_Add screenshots inside a Screenshots folder and use the format below:_
-
-![Dashboard Overview](dashboards/overview.png)
-![Emissions Analysis](dashboards/emissions.png)
-![Renewable Energy Trends](dashboards/renewable.png)
+![Dashboard Overview](overview.jpeg)
+![Emissions Analysis](emissions.jpeg)
+![Renewable Energy Trends](renewable.jpeg)
