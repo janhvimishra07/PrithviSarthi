@@ -58,3 +58,7 @@ It transforms raw global climate datasets into meaningful, interactive insights 
 ![Dashboard Overview](overview.jpeg)
 ![Emissions Analysis](emissions.jpeg)
 ![Renewable Energy Trends](renewable.jpeg)
+
+## 🎥 Project Demo Video
+
+[Watch the Demo Here](https://youtu.be/02tJDMosOf4?si=29RJlfcJAX7vMeSQ)
